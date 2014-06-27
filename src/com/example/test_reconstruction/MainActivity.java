@@ -31,7 +31,7 @@ import android.widget.Toast;
  
 public class MainActivity extends Activity implements OnClickListener,Runnable{
      
-	//テスト1.02
+	//テスト1.05
     private static final String URL = "http://192.168.11.2/test3.php";
     public String str = null;
     //private TextView ed1 = null;
